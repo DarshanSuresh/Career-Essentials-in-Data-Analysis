@@ -1,4 +1,4 @@
-# Career Essentials in Data Analysis by Microsoft and LinkedIn 
+# Career Essentials in Data Analysis by Microsoft and LinkedIn
 
 This repository contains files and working details for the "Career Essentials in Data Analysis" course by Microsoft and LinkedIn. The course provides comprehensive guidance on data analysis techniques, tools, and best practices.
 
